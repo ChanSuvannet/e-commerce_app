@@ -4,8 +4,8 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import '../../common/custom_container.dart';
 import '../../constants/constants.dart';
 
-class CartPage extends StatelessWidget {
-  const CartPage({super.key});
+class FavoritePage extends StatelessWidget {
+  const FavoritePage({super.key});
 
   @override
   Widget build(BuildContext context) {
