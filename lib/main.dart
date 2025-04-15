@@ -1,9 +1,10 @@
-import 'package:e_commerce/views/entrypoint.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 
 import 'constants/constants.dart';
+import 'views/entrypoint.dart';
 
 Widget defaultHome = MainScreen();
 void main() {
