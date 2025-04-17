@@ -4,7 +4,7 @@ List<dynamic> categories = [
     "title": "Fried Rice",
     "value": "fried_rice",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/4a4cd06e-94de-4478-8588-66eee01354d4-rice.png",
+        "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3Jhd3BpeGVsb2ZmaWNlMl9waG90b19vZl9leHBsb2RpbmdfYmFjb25fZnJpZWRfcmljZV9faW5fc3R5bGVfb18xYjllOWMyOC00ZDFiLTRiNDQtYmNjMy0yMGQ3ZjY2NWMzMmMucG5n.png",
     "createdAt": "2023-10-24T16:12:23.571Z",
     "updatedAt": "2023-10-24T16:12:23.571Z",
     "__v": 0
@@ -14,7 +14,7 @@ List<dynamic> categories = [
     "title": "Curry",
     "value": "curry",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/ee2d952c-1d7d-48f7-81b3-cb967343eb6c-curry.png",
+        "https://static.vecteezy.com/system/resources/previews/048/805/051/non_2x/curry-with-rice-transparent-background-png.png",
     "__v": 0
   },
   {
@@ -22,7 +22,7 @@ List<dynamic> categories = [
     "title": "Pizza",
     "value": "pizza",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/466693e6-f999-42e0-8794-09325ece1b45-Pizza.png",
+        "https://static.vecteezy.com/system/resources/previews/037/275/552/non_2x/ai-generated-a-slice-of-pizza-is-shown-with-melted-cheese-free-png.png",
     "__v": 0
   },
   {
@@ -30,7 +30,7 @@ List<dynamic> categories = [
     "title": "Pasta",
     "value": "pasta",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/6645cf41-bc89-4dd0-9f80-bba9487633b2-Spaghetti.png",
+        "https://icon2.cleanpng.com/lnd/20240809/fe/79f58686c9c91c2f92d8ecbaf97de5.webp",
     "__v": 0
   },
   {
@@ -38,7 +38,7 @@ List<dynamic> categories = [
     "title": "Beverages",
     "value": "beverages",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/93c4b3df-9e55-4308-a834-9fe4ad67c0b3-bar.png",
+        "https://freepngimg.com/thumb/drink/22700-6-drink-transparent-image.png",
     "__v": 0
   },
   {
@@ -46,7 +46,7 @@ List<dynamic> categories = [
     "title": "Burgers",
     "value": "burgers",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/3c94bc09-b8b9-4961-accb-f68b7e8121cc-Hamburger.png",
+        "https://www.freepnglogos.com/uploads/burger-png/burger-png-png-images-yellow-images-12.png",
     "__v": 0
   },
   {
@@ -54,7 +54,7 @@ List<dynamic> categories = [
     "title": "Chicken",
     "value": "chicken",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/139718b2-2832-40c5-8d7b-11fd9feb0aac-chicken.png",
+        "https://img.freepik.com/free-psd/crispy-fried-chicken-wings-falling-wooden-board-delicious-snack_84443-37900.jpg",
     "__v": 0
   },
   {
@@ -62,7 +62,7 @@ List<dynamic> categories = [
     "title": "More",
     "value": "more",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/08323562-a3c6-461d-95a3-b3817c99871b-more.png",
+        "https://www.clipartmax.com/png/middle/201-2012828_more-icon.png",
     "__v": 0
   }
 ];
@@ -70,7 +70,6 @@ List<dynamic> categories = [
 const restaurants = [
   {
     "_id": "6530ebbcc9e72013e5b65933",
-    "title": "Lapisara Eatery",
     "time": "6:00am - 9:00pm",
     "imageUrl":
         "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",

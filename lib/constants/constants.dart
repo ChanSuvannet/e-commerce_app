@@ -5,7 +5,7 @@ String googleApiKey = '';
 
 const kPrimary = Color(0xFF30b9b2);
 const kPrimaryLight = Color(0xFF40F3EA);
-const kSecondary = Color(0xffffa44f);
+const kSecondary = Color.fromARGB(255, 255, 169, 88);
 const kSecondaryLight = Color(0xFFffe5db);
 const kTertiary = Color(0xff0078a6);
 const kGray = Color(0xff83829A);

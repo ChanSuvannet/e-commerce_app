@@ -11,7 +11,7 @@ class CustomeAppBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      padding: EdgeInsets.symmetric(horizontal: 12.w, vertical: 15.h),
+      padding: EdgeInsets.symmetric(horizontal: 12.w, vertical: 12.h),
       width: width,
       height: 120.h,
       color: kWhite,
@@ -33,21 +33,21 @@ class CustomeAppBar extends StatelessWidget {
                     ),
                   ),
                   Padding(
-                    padding: EdgeInsets.only(bottom: 6.h, left: 8.w),
+                    padding: EdgeInsets.only(bottom: 5.h, left: 8.w),
                     child: Column(
                       mainAxisAlignment: MainAxisAlignment.end,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         ReusableText(
                           text: "Chan Suvannet",
-                          style: appStyle(12, kSecondary, FontWeight.w600),
+                          style: appStyle(15, const Color.fromARGB(255, 247, 142, 44), FontWeight.w600),
                         ),
                         SizedBox(
-                          width: width * 0.4, // Adjust width if needed
+                          width: width * 0.5, // Adjust width if needed
                           child: Text(
                             "1234  21st Avn N, Phnom Penh",
                             overflow: TextOverflow.ellipsis,
-                            style: appStyle(11, kGrayLight, FontWeight.normal),
+                            style: appStyle(12, kGrayLight, FontWeight.normal),
                           ),
                         ),
                       ],
